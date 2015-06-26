@@ -5,6 +5,17 @@ permalink: /methodologie/
 published: true
 ---
 
+## Un essaimage réussi suppose : 
+
+- Que l’on écrive les choses
+- De donner envie
+- De choisir le bon mode de restitution
+- De s’appuyer sur des relais
+- Et necessite de trouver de bons supports : un document synthétique percutant et honnête
+- De prevoir la formation et l’accompagnement des relais et de ceux qui venlent dupliquer
+
+Et de disposer de ressources communes misent à disposition qui enrichissent le projet au fur et à mesure de son évolution ! Elles doivent être mise en communs dans un espace (cartographie des ressources), identiables, faciles à trouver.
+
 # Méthodologie d'essaimage
 
 ![mindmap](http://culturesocial.github.io/images/flyer.jpg)
