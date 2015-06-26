@@ -1,3 +1,10 @@
+---
+layout: page
+title: Speed-dating
+permalink: /speeddating/
+published: true
+---
+
 # Speed-dating de l'essaimage
 
 ## En une phrase  
