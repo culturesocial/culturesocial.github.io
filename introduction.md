@@ -1,4 +1,11 @@
+---
+layout: page
+title: Introduction
+permalink: /introduction/
+published: true
+---
 
+# Introduction
 
 Nous n'avons pas les mêmes diagnostics, les mêmes priorités selon les politiques et les mêmes organisations.
 
