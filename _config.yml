@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            CJS Boulogne
+title:           Essaimer 
 locale:           fr_FR
-url: http://monjob.initiative.place              
+url: http://culturesocial.github.io
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name:
   avatar: flyer.jpg
-  bio: Contactez nous au 0782752983 ou par mail sur cjsboulogne-contact@ulists.org
+  bio: Penser l'essaimage des initiatives.
   email: 
   disqus-shortname: 
   twitter: #username
