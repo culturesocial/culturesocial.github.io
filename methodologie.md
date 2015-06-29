@@ -25,4 +25,4 @@ Et de disposer de ressources communes misent à disposition qui enrichissent le 
 [Lien vers la présentation](https://drive.google.com/drive/mobile?rfd=1#recent)
 
 
-<iframe src="https://docs.google.com/presentation/d/1RAiqWCzmcRFlpbreJzjyQmzCTTEG353DpsZ_m_eY3aY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1040" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1QvPIUiCCnqJHGlRf3ObyeTXxUyJu8PxVeyol1-Oj-Hg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
